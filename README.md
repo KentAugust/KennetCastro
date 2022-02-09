@@ -1,25 +1,20 @@
-Hello World!
-
+# Hello World!
 As a self-taught, the development of knowledge leads me to the search for information on various curious as well as interesting topics.
 I speak Spanish 🇪🇸 and a little English 🇺🇸
 
-<b>🧐 Interested</b>
+### 🧐 Interested
 - Data Science
 - Blockchain
 - Game Development
 
-<b>🧑‍💻 Studied</b>
+### 🧑‍💻 Studied
 - HTML
 - CSS
 - Design
 
-<b>📚 Currently learning</b>
+### 📚 Currently learning
 - Python
 
-<b>🌎 Contact</b>
-- Twitter: @kennetcastroone
+### 🌎 Contact
+- Twitter: ***[@kennetcastroone](https://twitter.com/kennetcastroone?s=21)***
 
-<!---
-KennetCastro/KennetCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
