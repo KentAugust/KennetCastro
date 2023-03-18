@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm Kennet</h1>
+<h1 align="center">Hello World 👋, I'm Kent August</h1>
 <h3 align="center">A passionate software and game developer</h3>
 
 As a self-taught, the development of knowledge leads me to the search for information on various curious as well as interesting topics.
@@ -10,7 +10,7 @@ As a self-taught, the development of knowledge leads me to the search for inform
   - **Game development**
   - **Data Science**
 
-- 📫 How to reach me **kennetcastroone@gmail.com**
+- 📫 How to reach me **kentaugustone@gmail.com**
 
 - ⚡ Fun fact **Speak mostly Spanish but understand English and also I'm learning Japanese**
 
